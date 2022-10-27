@@ -51,8 +51,3 @@ git status
 git add .
 git commit -m "label" prasad
 git push
-
-git branch
-git branch branch-name
-git checkout branch-name
-git merge branch-name
